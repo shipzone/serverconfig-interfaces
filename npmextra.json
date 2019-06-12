@@ -1,0 +1,17 @@
+{
+  "gitzone": {
+    "module": {
+      "githost": "gitlab.com",
+      "gitscope": "shipzone",
+      "gitrepo": "serverconfig-interfaces",
+      "shortDescription": "an interface package for server configuration",
+      "npmPackagename": "@shipzone/serverconfig-interfaces",
+      "license": "MIT",
+      "projectDomain": "ship.zone"
+    }
+  },
+  "npmci": {
+    "npmGlobalTools": [],
+    "npmAccessLevel": "public"
+  }
+}
